@@ -23,7 +23,7 @@
 <li>Image with "xfce desktop" &amp; "SEMA" &amp; "Docker"&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1a2-zskbrfFPU7S7jGzauImAyQ3gxDTxP/view?usp=sharing" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/wireless/512/4-512.png" width="25" /></a></li>
 </ul>
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp; **Note:** please refer to <a href="https://github.com/ADLINK/meta-adlink-x86-64bit/wiki/02.-How-to-install-Yocto-Image-to-USB-Drive" width="25" />the gudieline to bootup from USB drive</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; **Note:** please refer to <a href="https://github.com/adlinktech/meta-adlink-x86-64bit/wiki/02.-How-to-install-Yocto-Image-to-USB-Drive" width="25" />the gudieline to bootup from USB drive</a>
 
 <br>
  
@@ -44,7 +44,7 @@ This Layer depends on following layers
 <br>
 
  
-Please refer to [Guideline](https://github.com/ADLINK/meta-adlink-x86-64bit/wiki) for Yocto BSP building
+Please refer to [Guideline](https://github.com/adlinktech/meta-adlink-x86-64bit/wiki) for Yocto BSP building
 ----
 
 <br>
