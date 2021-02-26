@@ -5,8 +5,8 @@
 
 ### Yocto ISO Images for the quick evaluation
 
-* xfce Desktop environment + [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (image size: 2.5 GB) [download link](https://hq0epm0west0us0storage.blob.core.windows.net/public/COM%20X86/Images/Yocto/adlink-xfce-x86-intel-corei7-64-20200506054002.iso)
-* minimal image with commandine mode + [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (image size: 1.3 GB) [download link](https://hq0epm0west0us0storage.blob.core.windows.net/public/COM%20X86/Images/Yocto/adlink-mini-x86-intel-corei7-64-20200507014241.iso)
+* xfce Desktop environment + [SEMA 4.0](https://adlinktech.github.io/sema-doc/#/) (image size: 2.5 GB) [download link](https://hq0epm0west0us0storage.blob.core.windows.net/public/COM%20X86/Images/Yocto/adlink-xfce-x86-intel-corei7-64-20200506054002.iso)
+* minimal image with commandine mode + [SEMA 4.0](https://adlinktech.github.io/sema-doc/#/) (image size: 1.3 GB) [download link](https://hq0epm0west0us0storage.blob.core.windows.net/public/COM%20X86/Images/Yocto/adlink-mini-x86-intel-corei7-64-20200507014241.iso)
 
 
 <br>
