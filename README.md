@@ -28,20 +28,20 @@
 <br> 
 
 ### How to build Yocto Image
-* see [the documentation](https://github.com/ADLINK/meta-adlink-x86-64bit/wiki/01.-Build-Yocto-Image) for the more details
+* see [the documentation](https://github.com/adlinktech/meta-adlink-x86-64bit/wiki/01.-Build-Yocto-Image) for the more details
  
 <br>
 
 
 ### how to flash ISO image to your storage
-* [Boot from USB drive](https://github.com/ADLINK/meta-adlink-x86-64bit/wiki/02.-How-to-install-Yocto-Image-to-USB-Drive)
-* [Boot from eMMC/SD Card](https://github.com/ADLINK/meta-adlink-x86-64bit/wiki/03.-How-to-install-Yocto-Image-to-eMMC-&-SD-Card)
-* [Boot from SATA drive](https://github.com/ADLINK/meta-adlink-x86-64bit/wiki/04.-How-to-install-Yocto-Image-to-SATA-Drive)
+* [Boot from USB drive](https://github.com/adlinktech/meta-adlink-x86-64bit/wiki/02.-How-to-install-Yocto-Image-to-USB-Drive)
+* [Boot from eMMC/SD Card](https://github.com/adlinktech/meta-adlink-x86-64bit/wiki/03.-How-to-install-Yocto-Image-to-eMMC-&-SD-Card)
+* [Boot from SATA drive](https://github.com/adlinktech/meta-adlink-x86-64bit/wiki/04.-How-to-install-Yocto-Image-to-SATA-Drive)
 
 <br> 
 
 ### Supported Hardware List
-* see [the list](https://github.com/ADLINK/meta-adlink-x86-64bit/tree/master#the-following-products-are-supported-) for more details
+* see [the list](https://github.com/adlinktech/meta-adlink-x86-64bit/tree/master#the-following-products-are-supported-) for more details
 
 <br>
 
